@@ -4,7 +4,7 @@
 
 ### Environment
  
- This repo contains a requirements.txt file with a list of all the packages and dependencies yo    u will need. Before you install the virtual environment, make sure to install postgresql if yo    u haven't done it before.
+ This repo contains a requirements.txt file with a list of all the packages and dependencies you will need. Before you install the virtual environment, make sure to install postgresql if you haven't done it before.
  
   ```bash
  brew update
